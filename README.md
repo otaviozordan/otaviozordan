@@ -1,19 +1,22 @@
-<!--### Hi there 👋-->
 
-<!--
-**otaviozordan/otaviozordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='center'>
+  Hi there 👋 I'm Otávio 👨‍💻
+</h1>
 
-Here are some ideas to get you started:
+<p align='center'>
+  Aluno da ETE FMC de Santa Rita do Sapucaí, Brazil.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1 align='center'>
+  Entre em contato!
+</h1>
+
+<p align='center'>
+  <a href="https://instagram.com/otaviozordan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ot%C3%A1vio-zordan-alves-b88160211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5535988000636" target="_blank"><img src="	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+</p>
 
 <div align="center">
   <a href="https://github.com/otaviozordan">
@@ -36,9 +39,7 @@ Here are some ideas to get you started:
 
  ##
   
-  <a href="https://instagram.com/otaviozordan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ot%C3%A1vio-zordan-alves-b88160211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5535988000636" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+
 
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
