@@ -7,10 +7,20 @@
   Aluno da ETE FMC de Santa Rita do Sapucaí, Brazil.
 </p>
 
+##
 
-<h1 align='center'>
+
+<div align="center">
+  <a href="https://github.com/otaviozordan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviozordan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviozordan&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+
+##
+  
+<h2 align='center'>
   Entre em contato!
-</h1>
+</h2>
 
 <p align='center'>
   <a href="https://instagram.com/otaviozordan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -18,11 +28,6 @@
   <a href="https://api.whatsapp.com/send?phone=5535988000636" target="_blank"><img src="	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 </p>
 
-<div align="center">
-  <a href="https://github.com/otaviozordan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviozordan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviozordan&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
 
   ##
   
