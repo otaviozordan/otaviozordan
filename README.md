@@ -62,3 +62,13 @@
 
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+##
+  
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/otaviozordan/otaviozordan"></a>  Nerds estiveram aqui
+</p>
+
+<p align='center'>
+  📫 Quer mandar uma mensagem? <a href='mailto:otavio.zordan@outook.com'>otavio.zordan@outlook.com</a>
+</p>
