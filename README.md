@@ -8,7 +8,7 @@
 
   
 <h2 align='center'>
-  Entre em contato!
+ 💬 Entre em contato!
 </h2>
 
 <p align='center'>
@@ -23,18 +23,18 @@
 </p>
   
 <h2 align='center'>
-  Minhas estatisticas:
+  ⭐ Minhas estatisticas:
 </h2>
 
 <div align="center">
   <a href="https://github.com/otaviozordan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviozordan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviozordan&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviozordan&theme=blue-green&hide_langs_below=1"/>
 </div>
 
 <div> 
 <h2 align='center'>
-  Aprendendo:
+ 🚀 Aprendendo:
 </h2>
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -44,7 +44,7 @@
 </p>
   
 <h2 align='center'>
-  Meu Workspace:
+ 🔭 Meu Workspace:
 </h2>
 <p align='center'>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
