@@ -2,10 +2,15 @@
   Hi there 👋 I'm Otávio 👨‍💻
 </h1>
 
-<p align='center'>
-  Aluno da ETE FMC em Santa Rita do Sapucaí, Brasil.
-</p>
+```kotlin
+object **Otavio** {
+ val name = "Otávio Zordan Alves"
+ val school = "Aluno da ETE FMC em Santa Rita do Sapucaí, Brasil"
+ 
+ val primarySkillset = "Robótica e Eletronica"
 
+}
+```
   
 <h2 align='center'>
  💬 Entre em contato!
@@ -53,7 +58,7 @@
 </p>
 
 <h2 align='center'>
-  Meus passa-tempos:
+  🔧 Meus passa-tempos:
 </h2>
 <p align='center'>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
@@ -72,3 +77,12 @@
 <p align='center'>
   📫 Quer mandar uma mensagem? <a href='mailto:otavio.zordan@outook.com'>otavio.zordan@outlook.com</a>
 </p>
+
+##
+```java
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
