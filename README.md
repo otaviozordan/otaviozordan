@@ -8,6 +8,7 @@ object **Otavio** {
  val school = "Aluno da ETE FMC em Santa Rita do Sapucaí, Brasil"
  
  val primarySkillset = "Robótica e Eletronica"
+ val studing = "Equipamentos Biomedicos"
 
 }
 ```
