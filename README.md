@@ -87,4 +87,4 @@ class HelloWorld {
     }
 }
 ```
-<img src="https://github.com/otaviozordan/TheDudeThatCode/blob/master/Assets/Developer.gif">
+<img src="https://github.com/otaviozordan/otaviozordan/blob/main/Developer.gif?raw=true">
