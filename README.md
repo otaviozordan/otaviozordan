@@ -87,6 +87,4 @@ class HelloWorld {
     }
 }
 ```
-<p align ='center'
-<img src="https://github.com/otaviozordan/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true">
-</p>
+<img src="https://github.com/otaviozordan/TheDudeThatCode/blob/master/Assets/Developer.gif">
