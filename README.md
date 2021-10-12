@@ -193,6 +193,6 @@ namespace HelloWorldApp {
 
 ##
 <p align='center'>
-<img src="https://github.com/otaviozordan/otaviozordan/blob/main/Developer.gif?raw=true">
-<img src="https://github.com/otaviozordan/otaviozordan/blob/main/KeepCalm.jpg">
+<img height="180em" src="https://github.com/otaviozordan/otaviozordan/blob/main/Developer.gif?raw=true">
+<img height="180em" src="https://github.com/otaviozordan/otaviozordan/blob/main/KeepCalm.jpg">
 </p>
