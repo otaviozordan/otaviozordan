@@ -80,7 +80,6 @@ object **Otavio** {
   📫 Quer mandar uma mensagem? <a href='mailto:otavio.zordan@outook.com'>otavio.zordan@outlook.com</a>
 </p>
 
-##
 <details>
 <summary>📦 Meus Hello World</summary>
 <ul>
