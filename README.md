@@ -176,6 +176,7 @@ namespace HelloWorldApp {
     } 
 } 
 ```
-
 </details>
+
+##
 <img src="https://github.com/otaviozordan/otaviozordan/blob/main/Developer.gif?raw=true">
