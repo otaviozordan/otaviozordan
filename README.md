@@ -83,8 +83,10 @@ object **Otavio** {
 ##
 <details>
 <summary>📦 Meus Hello World</summary>
+<ul>
 
-Assembly
+<li>Assembly</li>
+
 ```assembly
 section     .text
 global      _start
@@ -106,7 +108,8 @@ msg     db  'Olá, Mundo!',0xa
 len     equ $ - msg
 ```
 ##
-C
+<li>C</li>
+
 ```c
 #include <stdio.h>
 int main() {
@@ -115,7 +118,8 @@ int main() {
 }
 ```
 ##
-C++
+<li>C++</li>
+
 ```cpp
 #include <iostream>
 int main() {
@@ -125,32 +129,38 @@ return 0;
 }
 ```
 ##
-SQL
+<li>SQL</li>
+
 ```SQL
 SELECT "Olá, Mundo!"
 ```
 ##
-Lua
+<li>Lua</li>
+
 ```lua
 print "Olá, Mundo!"
 ```
 ##
-PHP
+<li>PHP</li>
+
 ```php
 <?="Olá, Mundo!\n"?>
 ```
 ##
-Python
+<li>Python</li>
+
 ```python
 print("Olá, Mundo!")
 ```
 ##
-JavaScript
+<li>JavaScript</li>
+
 ```javascript
 console.log("Olá, Mundo!");
 ```
 ##
-Java
+<li>Java</li>
+
 ```java
 class OlaMundo {
     public static void main(String args[]) {
@@ -159,12 +169,14 @@ class OlaMundo {
 }
 ```
 ##
-Ruby
+<li>Ruby</li>
+
 ```ruby
 puts "Olá, Mundo!"
 ```
 ##
-C#
+<li>C#</li>
+
 ```c#
 using System; 
 namespace HelloWorldApp { 
@@ -176,6 +188,7 @@ namespace HelloWorldApp {
     } 
 } 
 ```
+</ul>
 </details>
 
 ##
