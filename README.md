@@ -81,7 +81,8 @@ object **Otavio** {
 </p>
 
 ##
-<summary>📦 Meus Hello World
+<details>
+<summary>📦 Meus Hello World</summary>
 
 Assembly
 ```assembly
@@ -175,6 +176,6 @@ namespace HelloWorldApp {
     } 
 } 
 ```
-</summary>
 
+</details>
 <img src="https://github.com/otaviozordan/otaviozordan/blob/main/Developer.gif?raw=true">
