@@ -83,6 +83,7 @@ object **Otavio** {
 ##
 <summary>📦 Meus Hello World
 
+Assembly
 ```assembly
 section     .text
 global      _start
@@ -104,6 +105,7 @@ msg     db  'Olá, Mundo!',0xa
 len     equ $ - msg
 ```
 
+C
 ```c
 #include <stdio.h>
 int main() {
@@ -112,6 +114,7 @@ int main() {
 }
 ```
 
+C++
 ```cpp
 #include <iostream>
 int main() {
@@ -121,26 +124,32 @@ return 0;
 }
 ```
 
+SQL
 ```SQL
 SELECT "Olá, Mundo!"
 ```
 
+Lua
 ```lua
 print "Olá, Mundo!"
 ```
 
+PHP
 ```php
 <?="Olá, Mundo!\n"?>
 ```
 
+Python
 ```python
 print("Olá, Mundo!")
 ```
 
+JavaScript
 ```javascript
 console.log("Olá, Mundo!");
 ```
 
+Java
 ```java
 class OlaMundo {
     public static void main(String args[]) {
@@ -149,10 +158,12 @@ class OlaMundo {
 }
 ```
 
+Ruby
 ```ruby
 puts "Olá, Mundo!"
 ```
 
+C#
 ```c#
 using System; 
 namespace HelloWorldApp { 
