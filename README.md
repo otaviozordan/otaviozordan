@@ -81,11 +81,89 @@ object **Otavio** {
 </p>
 
 ##
+<summary>📦 Meus Hello World
+
+```assembly
+section     .text
+global      _start
+
+_start:
+
+    mov     edx,len
+    mov     ecx,msg
+    mov     ebx,1
+    mov     eax,4
+    int     0x80
+
+    mov     eax,1
+    int     0x80
+
+section     .data
+
+msg     db  'Olá, Mundo!',0xa 
+len     equ $ - msg
+```
+
+```c
+#include <stdio.h>
+int main() {
+ printf("Olá, Mundo!\n");
+ return 0;
+}
+```
+
+```cpp
+#include <iostream>
+int main() {
+std::cout << "Olá, Mundo!" << std::endl;
+return 0;
+}
+}
+```
+
+```SQL
+SELECT "Olá, Mundo!"
+```
+
+```lua
+print "Olá, Mundo!"
+```
+
+```php
+<?="Olá, Mundo!\n"?>
+```
+
+```python
+print("Olá, Mundo!")
+```
+
+```javascript
+console.log("Olá, Mundo!");
+```
+
 ```java
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
+class OlaMundo {
+    public static void main(String args[]) {
+        System.out.println("Olá, Mundo!");
     }
 }
 ```
+
+```ruby
+puts "Olá, Mundo!"
+```
+
+```c#
+using System; 
+namespace HelloWorldApp { 
+    class Geeks { 
+	    static void Main(string[] args) {
+           Console.WriteLine("Olá, Mundo!"); 
+	       Console.ReadKey(); 
+	    } 
+    } 
+} 
+```
+</summary>
+
 <img src="https://github.com/otaviozordan/otaviozordan/blob/main/Developer.gif?raw=true">
