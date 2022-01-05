@@ -3,16 +3,24 @@
 </h1>
 Sobre Mim:
 
-```kotlin
-object **Otavio** {
- val name = "Otávio Zordan Alves"
- 
- val school = "ETE FMC em Santa Rita do Sapucaí, Brasil"
- val work  = "ChamaInBox, Estagiario"
- 
- val primarySkillset = "Robótica e Eletronica"
- val studing = "Equipamentos Biomedicos"
-
+```Json
+{
+	"Otávio Zordan Alves" : {
+		"Formação Academica":{
+			"Cursando":"Equipamentos Biomedicos"
+			"Escola":"Escola Técnica de Eletrônica Francisco Moreira da Costa"
+			"Localizada":"Santa Rita do Sapucaí - Minas Gerais"
+			"Data de inicio":"Janeiro de 2021"
+			"Data de termino":"Dezembro de 2023"
+		}
+		
+		"Experiencia de trabalho":{
+			"Empresa":"ChamaInBox"
+			"Cargo":"Estagiario"
+			"Data de inicio":"Dezembro  de 2021"
+			"Data de termino":"Janeiro de 2022"
+			}
+	}
 }
 ```
   
