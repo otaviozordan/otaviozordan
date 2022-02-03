@@ -8,7 +8,7 @@ Sobre Mim:
 	"Otávio Zordan Alves" : {
 		"Formação Academica":[
 			{
-			"Cursando":"Equipamentos Biomedicos"
+			"Cursando":"[...]"
 			"Escola":"Escola Técnica de Eletrônica Francisco Moreira da Costa"
 			"Localizada":"Santa Rita do Sapucaí - Minas Gerais"
 			"Data de inicio":"Janeiro de 2021"
@@ -106,7 +106,7 @@ Sobre Mim:
 <summary>📦 Meus Hello World</summary>
 <ul>
 
-<li>Assembly</li>
+<li>Assembly</
 
 ```assembly
 section     .text
