@@ -1,7 +1,6 @@
 <h1 align='center'>
   Hi there 👋 I'm Otávio 👨‍💻
 </h1>
-Sobre Mim:
 
 ```Json
 {
