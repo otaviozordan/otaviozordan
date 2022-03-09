@@ -216,9 +216,9 @@ namespace HelloWorldApp {
     <a href="https://www.otaviozordan.github.io">Da uma olhada no meu Portfólio</a>
 </p>
 
- <button class="conteudo-principal-escrito-botao">
+<button>
     Me siga no GitHub!
-  </button>
+</button>
 
 ##
 <p align='center'>
