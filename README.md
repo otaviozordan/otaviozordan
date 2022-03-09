@@ -212,9 +212,9 @@ namespace HelloWorldApp {
 </details>
 
 ##
-<p align='center'>
+<h2 align='center'>
   Da uma olhada no meu portfólio! <a href='https://otaviozordan.github.io'>Clique Aqui!</a>
-</p>
+</h2>
 
 ##
 <p align='center'>
