@@ -101,6 +101,10 @@
   📫 Quer mandar uma mensagem? <a href='mailto:otavio.zordan@outook.com'>otavio.zordan@outlook.com</a>
 </p>
 
+<p align='center'>
+  Da uma olhada no meu portfólio! <a href='https://otaviozordan.github.io'>Clique Aqui!</a>
+</p>
+
 <details>
 <summary>📦 Meus Hello World</summary>
 <ul>
@@ -210,11 +214,6 @@ namespace HelloWorldApp {
 ```
 </ul>
 </details>
-
-##
-<h2 align='center'>
-  Da uma olhada no meu portfólio! <a href='https://otaviozordan.github.io'>Clique Aqui!</a>
-</h2>
 
 ##
 <p align='center'>
