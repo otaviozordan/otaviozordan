@@ -213,12 +213,8 @@ namespace HelloWorldApp {
 
 ##
 <p align='center'>
-    <a href="https://www.otaviozordan.github.io">Da uma olhada no meu Portfólio</a>
+  Da uma olhada no meu portfólio! <a href='https://otaviozordan.github.io'>Clique Aqui!</a>
 </p>
-
-<button>
-    Me siga no GitHub!
-</button>
 
 ##
 <p align='center'>
