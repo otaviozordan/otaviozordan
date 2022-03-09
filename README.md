@@ -102,7 +102,7 @@
 </p>
 
 <p align='center'>
-  Da uma olhada no meu portfólio! <a href='https://otaviozordan.github.io'>Clique Aqui!</a>
+  🚀 Da uma olhada no meu portfólio! <a href='https://otaviozordan.github.io'>Clique Aqui!</a>
 </p>
 
 <details>
