@@ -216,6 +216,10 @@ namespace HelloWorldApp {
     <a href="https://www.otaviozordan.github.io">Da uma olhada no meu Portfólio</a>
 </p>
 
+ <button class="conteudo-principal-escrito-botao">
+    Me siga no GitHub!
+  </button>
+
 ##
 <p align='center'>
 <img height="180em" src="https://github.com/otaviozordan/otaviozordan/blob/main/KeepCalm.jpg">
