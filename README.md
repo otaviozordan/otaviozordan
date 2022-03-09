@@ -213,6 +213,11 @@ namespace HelloWorldApp {
 
 ##
 <p align='center'>
+  Da uma olhada no meu portifolio: <a href='otaviozordan.github.io'>Quick aqui</a>
+</p>
+
+##
+<p align='center'>
 <img height="180em" src="https://github.com/otaviozordan/otaviozordan/blob/main/KeepCalm.jpg">
 <img height="180em" src="https://github.com/otaviozordan/otaviozordan/blob/main/Developer.gif?raw=true">
 </p>
