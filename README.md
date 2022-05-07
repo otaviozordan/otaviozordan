@@ -32,11 +32,11 @@
 			},
 
 			{
-			"Empresa":"ChamaInBox",
+			"Empresa":"Escola Técnica de Eletrônica Francisco Moreira da Costa",
 			"Tipo":"Voluntario",
 			"Cargo":"Monitor de laboratório",
-			"Data de inicio":"Dezembro  de 2021",
-			"Data de termino":"Janeiro de 2022"
+			"Data de inicio":"Fevereriro  de 2022",
+			"Data de termino":"[...]"
 			}
 		]
 	}
