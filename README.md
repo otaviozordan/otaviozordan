@@ -7,26 +7,35 @@
 	"Otávio Zordan Alves" : {
 		"Formação Academica":[
 			{
-			"Cursando":"[...]"
-			"Escola":"Escola Técnica de Eletrônica Francisco Moreira da Costa"
-			"Localizada":"Santa Rita do Sapucaí - Minas Gerais"
-			"Data de inicio":"Janeiro de 2021"
+			"Cursando":"[...]",
+			"Escola":"Escola Técnica de Eletrônica Francisco Moreira da Costa",
+			"Localizada":"Santa Rita do Sapucaí - Minas Gerais",
+			"Data de inicio":"Janeiro de 2021",
 			"Data de termino":"Dezembro de 2023"
-			}
+			},
+            
 			{
-			"Cursando":"Ensino Médio"
-			"Escola":"Escola Técnica de Eletrônica Francisco Moreira da Costa"
-			"Localizada":"Santa Rita do Sapucaí - Minas Gerais"
-			"Data de inicio":"Janeiro de 2021"
+			"Cursando":"Ensino Médio",
+			"Escola":"Escola Técnica de Eletrônica Francisco Moreira da Costa",
+			"Localizada":"Santa Rita do Sapucaí - Minas Gerais",
+			"Data de inicio":"Janeiro de 2021",
 			"Data de termino":"Dezembro de 2023"
 			}
-		]
+		],
 		
 		"Experiencia de trabalho":[
 			{
-			"Empresa":"ChamaInBox"
-			"Cargo":"Estagiario"
-			"Data de inicio":"Dezembro  de 2021"
+			"Empresa":"ChamaInBox",
+			"Cargo":"Estagiario",
+			"Data de inicio":"Dezembro  de 2021",
+			"Data de termino":"Janeiro de 2022"
+			},
+
+			{
+			"Empresa":"ChamaInBox",
+			"Tipo":"Voluntario",
+			"Cargo":"Monitor de laboratório",
+			"Data de inicio":"Dezembro  de 2021",
 			"Data de termino":"Janeiro de 2022"
 			}
 		]
