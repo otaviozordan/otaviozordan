@@ -111,10 +111,7 @@
 </div>
 
 ##
-  
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/otaviozordan/otaviozordan"></a>  Nerds estiveram aqui
-</p>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) ##Nerds estiveram aqui##
 
 <p align='center'>
   📫 Quer mandar uma mensagem? <a href='mailto:otavio.zordan@outook.com'>otavio.zordan@outlook.com</a>
