@@ -64,7 +64,7 @@
 
 <div align="center">
   <a href="https://github.com/otaviozordan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviozordan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviozordan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviozordan&theme=blue-green&hide_langs_below=1"/>
 </div>
 
