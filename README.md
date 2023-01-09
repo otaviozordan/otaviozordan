@@ -111,7 +111,9 @@
 </div>
 
 ##
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) ##Nerds estiveram aqui##
+<p align='center'>
+	<img src="https://visitor-badge.glitch.me/badge?page_id=otaviozordan.visitor-badge)" /> Nerds estiveram aqui
+</p>
 
 <p align='center'>
   📫 Quer mandar uma mensagem? <a href='mailto:otavio.zordan@outook.com'>otavio.zordan@outlook.com</a>
