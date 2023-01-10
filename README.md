@@ -26,18 +26,25 @@
 		"Experiencia de trabalho":[
 			{
 			"Empresa":"ChamaInBox",
-			"Cargo":"Estagiario",
+			"Cargo":"Estagio",
+			"Cargo":"Desenvolvedor",
 			"Data de inicio":"Dezembro  de 2021",
 			"Data de termino":"Janeiro de 2022"
 			},
-
 			{
 			"Empresa":"Escola Técnica de Eletrônica Francisco Moreira da Costa",
 			"Tipo":"Voluntario",
 			"Cargo":"Monitor de laboratório",
 			"Data de inicio":"Fevereriro  de 2022",
 			"Data de termino":"Dezembro de 2022",
-			"Matérias":["Algoritimos","Sistemas Digitais", "Eletricidade", "Eletronica"]
+			"Materias":["Algoritimos","Sistemas Digitais", "Eletricidade", "Eletronica"]
+			},
+			{
+			"Empresa":"Escola Técnica de Eletrônica Francisco Moreira da Costa",
+			"Tipo":"Estagio",
+			"Cargo":"Desenvolvedor",
+			"Data de inicio":"Janeiro  de 2023",
+			"Data de termino":["..."]
 			}
 		]
 	}
