@@ -36,7 +36,8 @@
 			"Tipo":"Voluntario",
 			"Cargo":"Monitor de laboratório",
 			"Data de inicio":"Fevereriro  de 2022",
-			"Data de termino":"[...]"
+			"Data de termino":"Dezembro de 2022",
+			"Matérias":["Algoritimos","Sistemas Digitais", "Eletricidade", "Eletronica"]
 			}
 		]
 	}
