@@ -120,7 +120,7 @@
 
 ##
 <p align='center'>
-	[<img src="https://visitor-badge.glitch.me/badge?page_id=otaviozordan.visitor-badge)" />](https://camo.githubusercontent.com/b048bf187be0429fba473138331ab9f9d82054b45834ee78dfcfb6090345ec8e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d447265616d6b69747465587a267374796c653d666f722d7468652d6261646765) Nerds estiveram aqui
+	<img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=otaviozordan&style=for-the-badge"/></a></p>
 </p>
 
 <p align='center'>
