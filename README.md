@@ -8,18 +8,18 @@
 		"Formação Academica":[
 			{
 			"Cursando":"Técnico em Telecomunicações",
-			"Escola":"Escola Técnica de Eletrônica Francisco Moreira da Costa",
+			"Instituição":"Escola Técnica de Eletrônica Francisco Moreira da Costa",
 			"Localizada":"Santa Rita do Sapucaí - Minas Gerais",
 			"Data de inicio":"Janeiro de 2021",
 			"Data de termino":"Dezembro de 2023"
 			},
             
 			{
-			"Cursando":"Ensino Médio",
-			"Escola":"Escola Técnica de Eletrônica Francisco Moreira da Costa",
-			"Localizada":"Santa Rita do Sapucaí - Minas Gerais",
-			"Data de inicio":"Janeiro de 2021",
-			"Data de termino":"Dezembro de 2023"
+			"Cursando":"Engenharia Mecânica e Aeronautica",
+			"Instituição":"UNIFEI",
+			"Localizada":"Itajubá - Minas Gerais",
+			"Data de inicio":"Janeiro de 2024",
+			"Data de termino":"..."
 			}
 		],
 		
@@ -44,7 +44,14 @@
 			"Tipo":"Estagio",
 			"Cargo":"Desenvolvedor",
 			"Data de inicio":"Janeiro  de 2023",
-			"Data de termino":["..."]
+			"Data de termino":"Fevereiro de 2023"
+			},
+			{
+			"Empresa":"ChamaInBox",
+			"Cargo":"Estagio",
+			"Cargo":"Desenvolvedor",
+			"Data de inicio":"Dezembro  de 2023",
+			"Data de termino":"Março de 2024"
 			}
 		]
 	}
