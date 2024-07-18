@@ -26,15 +26,15 @@
 		"Experiencia de trabalho":[
 			{
 			"Empresa":"ChamaInBox",
-			"Cargo":"Estagio",
-			"Cargo":"Desenvolvedor",
+			"Tipo":"Estagio",
+			"Experiencia":"Desenvolvimento Backend",
 			"Data de inicio":"Dezembro  de 2021",
 			"Data de termino":"Janeiro de 2022"
 			},
 			{
 			"Empresa":"Escola Técnica de Eletrônica Francisco Moreira da Costa",
 			"Tipo":"Voluntario",
-			"Cargo":"Monitor de laboratório",
+			"Experiencia":"Monitor de laboratório",
 			"Data de inicio":"Fevereriro  de 2022",
 			"Data de termino":"Dezembro de 2022",
 			"Materias":["Algoritimos","Sistemas Digitais", "Eletricidade", "Eletronica"]
@@ -42,14 +42,14 @@
 			{
 			"Empresa":"Escola Técnica de Eletrônica Francisco Moreira da Costa",
 			"Tipo":"Estagio",
-			"Cargo":"Desenvolvedor",
+			"Experiencia":"Desenvolvimento de Embarcados",
 			"Data de inicio":"Janeiro  de 2023",
 			"Data de termino":"Fevereiro de 2023"
 			},
 			{
 			"Empresa":"ChamaInBox",
-			"Cargo":"Estagio",
-			"Cargo":"Desenvolvedor",
+			"Tipo":"Desenvolvedor de Soluções",
+			"Experiencia":"Desenvolvimento Backend",
 			"Data de inicio":"Dezembro  de 2023",
 			"Data de termino":"Março de 2024"
 			}
