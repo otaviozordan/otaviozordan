@@ -1,5 +1,6 @@
 <h1 align='center'>
-  Hi there 👋 I'm Otávio 👨‍💻
+  Hi there 👋 I'm Otávio 👨‍💻<br>
+	Estudante de Engenharia Aeronautica - UNIFEI
 </h1>
 
 ```Json
