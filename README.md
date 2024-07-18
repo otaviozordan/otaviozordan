@@ -111,6 +111,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -258,9 +259,3 @@ namespace HelloWorldApp {
 ```
 </ul>
 </details>
-
-##
-<p align='center'>
-<img height="180em" src="https://github.com/otaviozordan/otaviozordan/blob/main/KeepCalm.jpg">
-<img height="180em" src="https://github.com/otaviozordan/otaviozordan/blob/main/Developer.gif?raw=true">
-</p>
