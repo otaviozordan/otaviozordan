@@ -63,7 +63,12 @@
 </h2>
 
 <p align='center'>
- 
+<a href="https://github.com/otaviozordan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://www.researchgate.net/profile/Otavio-Alves-4">
+    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ot%C3%A1vio-zordan-alves-b88160211/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -74,7 +79,7 @@
 </p>
   
 <h2 align='center'>
-  ⭐ Minhas estatisticas:
+  🖥️ Minhas estatisticas:
 </h2>
 
 <div align="center">
@@ -85,40 +90,46 @@
 
 <div> 
 <h2 align='center'>
- 🚀 Aprendendo:
+ 🚀 Tecnologias:
 </h2>
 <h4 align='center'>
- 🖥️ Front-end:
+  ⭐⭐⭐ Confortavel com:
+</h4>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+<h4 align='center'>
+ ⚙️ Já trabalhei com:
 </h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-<h4 align='center'>
- ⚙️ Back-end + Framework + Database:
-</h4>
-<p align='center'>
+  <br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  <br>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>  
   
-<h2 align='center'>
- 🔭 Explorando:
-</h2>
-<p align='center'>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />	
+<h4 align='center'>
+ 🔭  Curto Cybersegurança
+</h4>
+<p align='center'> 
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />	
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />	
 </p>
 
-<h2 align='center'>
-  🔧 Hardwares prototipagem:
-</h2>
+<h4 align='center'>
+  🔧 Hoje estou mais ligado em sistemas embarcados:
+</h4>
 <p align='center'>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
  </p>
 
